@@ -3,7 +3,7 @@
 INTRODUCES THE UNWAVERING POWER OF THE G FUEL TESTRIS BLAST ENERGY DRINK
 
 Images:
-![T SPIN SINGLE](T SPIN SINGLE.PNG)
+![T SPIN SINGLE](https://raw.githubusercontent.com/JoshuaMarinelli/G-FUEL-TETRIS-BLAST/main/T%20SPIN%20TRIPLE.PNG)
 
 
 Please only use this mod with a legally obtained copy of Kingdom Hearts 2: Final Mix for PlayStation 2 and a legally obtained PS2 BIOS.
